@@ -1,1 +1,0 @@
-# granular-media-dynamics
